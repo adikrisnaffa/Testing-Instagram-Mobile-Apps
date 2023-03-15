@@ -1,1 +1,1 @@
-!(Python.gif)
+![Teks](Python.gif)
