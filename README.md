@@ -25,4 +25,3 @@ Disini saya menggunakan Appium Server, Appium Inspector dan Python sebagai bahas
  - Untuk terhubung dengan perangkat seluler, Anda dapat menggunakan kabel USB atau WiFi. Untuk menghubungkan perangkat melalui USB, pastikan perangkat seluler Anda terhubung ke komputer melalui kabel USB dan mode pengembang serta USB debugging telah diaktifkan. Untuk menghubungkan perangkat melalui WiFi, pastikan perangkat seluler dan komputer terhubung ke jaringan WiFi yang sama.
  - Klik tombol "Start Session" di bagian atas jendela Appium Inspector untuk memulai sesi pengujian.
  - Setelah sesi dimulai, Anda dapat menavigasi dan menguji aplikasi dengan Appium Inspector.
-
