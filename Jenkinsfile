@@ -3,6 +3,7 @@ pipeline {
     stages {
         stage('Install dependencies') {
             steps {
+                sh 'pip install --upgrade pip'
                 sh 'pip install Appium-Python-Client'
                 sh 'pip install pytest'
             }
